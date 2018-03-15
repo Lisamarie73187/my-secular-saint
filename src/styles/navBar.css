@@ -1,0 +1,16 @@
+.navbar_flex{
+    display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: stretch;
+    align-content: stretch;
+}
+
+.navbar_flex h5{
+    color: #1E76BA;
+    padding: 20px 10px;
+    font-weight: 100;
+    margin: 10px;
+    letter-spacing: .5pt;
+}

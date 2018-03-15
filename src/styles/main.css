@@ -1,0 +1,26 @@
+.home_main{
+    text-align: center;
+}
+.home_main > div{
+    margin: 10px;
+}
+
+h1{
+    font-family: 'Trashhand';
+    color: #2A9ED8;
+    font-size: 40pt;
+    font-weight: 900;
+    margin: 0;
+  }
+  h5{
+    font-family: 'Trashhand';
+    font-size: 24pt;
+  }
+p{
+    text-align: left;
+    color: rgb(94, 94, 94);
+    font-family: 'Quicksand', sans-serif;
+    font-weight: lighter;
+    letter-spacing: 1pt;
+    font-size: 14pt;
+}

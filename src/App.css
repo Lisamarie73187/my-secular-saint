@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "TrashHand";
+  src: url("/src/assets/fonts/TrashHand.ttf");
+  /* src: 
+  url("css/fonts/Harabara.woff") format("woff"),
+  url("css/fonts/Harabara.otf") format("opentype"),
+  url("css/fonts/Harabara.svg#filename") format("svg"); */
+  }
+
+  h1{
+    font-family: 'Trashhand';
+  }
+
+
+  h5{
+    font-family: 'Trashhand';
+  }
