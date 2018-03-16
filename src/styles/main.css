@@ -12,6 +12,13 @@ h1{
     font-weight: 900;
     margin: 0;
   }
+h2{
+    font-family: 'Trashhand';
+    color: #F27953;
+    font-size: 40pt;
+    font-weight: 900;
+    margin: 0;
+}
   h5{
     font-family: 'Trashhand';
     font-size: 24pt;
@@ -24,4 +31,8 @@ p{
     letter-spacing: 1pt;
     font-size: 14pt;
     padding: 10px 100px;
+}
+
+.home_pictures > img{
+    padding: 40px 20px;
 }
