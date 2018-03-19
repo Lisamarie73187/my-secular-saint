@@ -1,6 +1,10 @@
 import React, { Component } from 'react'
 import Carousel from 'nuka-carousel'
 
+import slideOne from '../assets/slider/sliderPictureOne.png'
+import slideTwo from '../assets/slider/sliderPictureTwo.png'
+import slideThree from '../assets/slider/sliderPictureThree.png'
+
 
 class Slider extends Component {
     constructor(props) {
@@ -13,12 +17,9 @@ class Slider extends Component {
         return (
             <div>
                 <Carousel>
-                    <img src="http://placehold.it/1000x400/ffffff/c0392b/&text=slide1" />
-                    <img src="http://placehold.it/1000x400/ffffff/c0392b/&text=slide2" />
-                    <img src="http://placehold.it/1000x400/ffffff/c0392b/&text=slide3" />
-                    <img src="http://placehold.it/1000x400/ffffff/c0392b/&text=slide4" />
-                    <img src="http://placehold.it/1000x400/ffffff/c0392b/&text=slide5" />
-                    <img src="http://placehold.it/1000x400/ffffff/c0392b/&text=slide6" />
+                    <img src={slideThree} alt="Slider Three" title="Slider Three"/>
+                    <img src={slideOne} alt="certificate of Saint Hood" title="Saint Hood Certificate"/>
+                    <img src={slideTwo} alt="Slider Two" title="Slider Two"/>
                 </Carousel>
             </div>
         )

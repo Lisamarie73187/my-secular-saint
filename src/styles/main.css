@@ -32,6 +32,9 @@ p{
     font-size: 14pt;
     padding: 10px 100px;
 }
+.home_slider{
+    padding: 20px 0;
+}
 
 .home_pictures > img{
     padding: 40px 20px;
