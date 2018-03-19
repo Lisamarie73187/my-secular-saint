@@ -12,7 +12,7 @@ class NavBar extends Component {
 
     render() {
         return (
-            <div className="navbar_flex">
+            <div className={this.props.styles}>
                 <h5>Home</h5>
                 <Link className="noDecor" to="/aboutus"><h5>About Us</h5></Link>
                 <Link className="noDecor" to="/info"><h5>Info</h5></Link>

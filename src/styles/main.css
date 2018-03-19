@@ -11,15 +11,24 @@ h1{
     font-size: 40pt;
     font-weight: 900;
     margin: 0;
+    padding: 10px;
   }
-h2{
+h2, .orange{
     font-family: 'Trashhand';
     color: #F27953;
     font-size: 40pt;
     font-weight: 900;
     margin: 0;
 }
-  h5{
+h4{
+    font-family: 'Trashhand';
+    font-size: 18pt;
+    color: rgb(128, 128, 128);
+    padding: 0 20px;
+    letter-spacing: 1pt;
+    font-weight: lighter;
+}
+h5{
     font-family: 'Trashhand';
     font-size: 24pt;
   }
@@ -35,10 +44,26 @@ p{
 .home_slider{
     padding: 20px 0;
 }
+.home_pictures{
+    padding-bottom: 50px;
+}
 
 .home_pictures > img{
     padding: 40px 20px;
 }
 .noDecor{
     text-decoration: none;
+}
+.footerLogo{
+    transform: translateY(20px);
+}
+footer{
+    background-color: #58585A;
+    padding: 2px;
+    display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-between;
+	align-items: stretch;
+    align-content: stretch;
 }
