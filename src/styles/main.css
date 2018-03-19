@@ -36,3 +36,6 @@ p{
 .home_pictures > img{
     padding: 40px 20px;
 }
+.noDecor{
+    text-decoration: none;
+}
