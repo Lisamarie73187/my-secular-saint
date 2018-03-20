@@ -1,5 +1,10 @@
+html{
+    margin: 0;
+    padding: 0;
+}
 .home_main{
     text-align: center;
+    margin: 0;
 }
 .home_main > div{
     margin: 10px;
@@ -66,4 +71,5 @@ footer{
 	justify-content: space-between;
 	align-items: stretch;
     align-content: stretch;
+    margin: 0;
 }
