@@ -33,6 +33,7 @@ h4{
     letter-spacing: 1pt;
     font-weight: lighter;
 }
+
 h5{
     font-family: 'Trashhand';
     font-size: 24pt;
@@ -46,6 +47,25 @@ p{
     font-size: 14pt;
     padding: 10px 100px;
 }
+.p2{
+    text-align: left;
+    color: rgb(94, 94, 94);
+    font-family: 'Quicksand', sans-serif;
+    font-weight: lighter;
+    letter-spacing: 1pt;
+    font-size: 14pt;
+    padding: 10px 40px;
+}
+.flex{
+    display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-between;
+	align-items: stretch;
+    align-content: stretch;
+    box-shadow: 2px -2px 25px -1px rgba(0,0,0,0.34);
+    padding: 20px;
+}
 .home_slider{
     padding: 20px 0;
 }
@@ -53,8 +73,9 @@ p{
     padding-bottom: 50px;
 }
 
-.home_pictures > img{
-    padding: 40px 20px;
+.home_pictures img{
+    margin: 40px 20px;
+    box-shadow: 2px -2px 25px -1px rgba(0,0,0,0.34);
 }
 .noDecor{
     text-decoration: none;
@@ -72,4 +93,10 @@ footer{
 	align-items: stretch;
     align-content: stretch;
     margin: 0;
+}
+
+/* About Page */
+
+.about_wrapper{
+    padding: 0 20px;
 }
