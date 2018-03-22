@@ -5,6 +5,9 @@ import Ted from '../../assets/ted-photo1.jpg'
 
 class AboutUs extends Component {
    
+    componentDidMount(){
+        window.scrollTo(0,0)
+    }
 
     render() {
         return (
