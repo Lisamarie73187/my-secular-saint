@@ -3,8 +3,10 @@
 <!-- ![Logo](https://github.com/Lisamarie73187/my-secular-saint/blob/master/src/assets/MySecularSaint-logo-f-transparent.png) -->
 
 <p align="center">
-  <img src="https://github.com/Lisamarie73187/my-secular-saint/blob/master/src/assets/MySecularSaint-logo-f-transparent.png" width="350"/>
+  <img src="https://github.com/Lisamarie73187/my-secular-saint/blob/master/src/assets/MySecularSaint-logo-f-transparent.png" width="250"/>
 </p>
+
+
 ## Overview
 
 20% Complete
