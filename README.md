@@ -1,5 +1,7 @@
 # My Secular Saint
 
+![Logo](https://github.com/Lisamarie73187/goal-tracker/blob/master/src/assets/MySecularSaint-logo-f-transparent.png)
+
 ## Overview
 
 20% Complete
