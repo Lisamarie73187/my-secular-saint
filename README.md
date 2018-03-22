@@ -1,7 +1,10 @@
 # My Secular Saint
 
-![Logo](https://github.com/Lisamarie73187/my-secular-saint/blob/master/src/assets/MySecularSaint-logo-f-transparent.png)
+<!-- ![Logo](https://github.com/Lisamarie73187/my-secular-saint/blob/master/src/assets/MySecularSaint-logo-f-transparent.png) -->
 
+<p align="center">
+  <img src="https://github.com/Lisamarie73187/my-secular-saint/blob/master/src/assets/MySecularSaint-logo-f-transparent.png" width="350"/>
+</p>
 ## Overview
 
 20% Complete
